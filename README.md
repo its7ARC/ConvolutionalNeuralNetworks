@@ -1,2 +1,2 @@
 # ConvolutionalNeuralNetworks
-Implementation of CNN using Keras library for classification of cloth types.
+Implementation of CNN using Keras library for classification of clothes.
